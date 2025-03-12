@@ -124,5 +124,5 @@ app.get("/", (req, res) => {
 
 const PORT = 3000;
 server.listen(PORT, () => {
-  console.log(`Server is running on http://192.168.1.19:${PORT}`);
+  console.log(`Server is running on http://172.41.2.248:${PORT}`);
 });

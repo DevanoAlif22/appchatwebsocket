@@ -9,7 +9,7 @@ if (currentUsername) {
 }
 
 function initializeWebSocket(username) {
-  socket = new WebSocket("ws://192.168.1.19:3000");
+  socket = new WebSocket("ws://172.41.2.248:3000");
 
   // ketika user pertama kali login (handshake)
   socket.addEventListener("open", (event) => {
