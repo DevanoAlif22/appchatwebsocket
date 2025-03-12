@@ -21,7 +21,7 @@ cd server & npm install
 echo "GEMINI_API_KEY=your_api_key_here" > .env
 ```
 
-![Alt Text](path/gemini.png)
+![Alt Text](img/gemini.png)
 
 ```sh
 # 4. Salin IP lokal dari perangkat saat ini
