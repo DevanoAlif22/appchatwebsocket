@@ -28,15 +28,21 @@ echo "GEMINI_API_KEY=your_api_key_here" > .env
 # (Lihat pada gambar berikut)
 ```
 
+![Alt Text](img/ip-config.png)
+
 ```sh
 # 5. Ubah IP pada server/app.js dengan IP lokal yang baru disalin
 # (Lihat pada gambar berikut)
 ```
 
+![Alt Text](img/ip-server.png)
+
 ```sh
 # 6. Ubah IP pada klien/script.js dengan IP lokal yang baru disalin
 # (Lihat pada gambar berikut)
 ```
+
+![Alt Text](img/ip-klien.png)
 
 ```sh
 # 7. Jalankan server
@@ -49,3 +55,7 @@ node server/app.js
 ## Contoh Output
 
 &#x20;&#x20;
+
+![Alt Text](img/chat-1.png)
+![Alt Text](img/chat-2.png)
+![Alt Text](img/chat-3.png)
